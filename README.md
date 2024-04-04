@@ -23,8 +23,8 @@ Testing the C Program for the desired output.
 
 # PROGRAM:
 ```
-Name: BHARATH K
-Reg.No: 212222110006
+Name: ALAN ZION H
+Reg.No: 212223240004
 ```
 
 ## C Program that illustrate communication between two process using unnamed pipes using Linux API system calls
